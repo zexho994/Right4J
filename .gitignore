@@ -2,3 +2,4 @@
 HELP.md
 /right4j.iml
 /target/
+/target/classes/application.properties
